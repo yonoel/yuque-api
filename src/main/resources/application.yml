@@ -2,7 +2,7 @@ server:
   port: 8917
 yuque:
   # 用户中心手动生成
-  access_token: uSRvz0fGCqsQxyGNA81vDdeCZofxMXhZXGpVLK5A
+  access_token:
   # 用户id，f12里面可以看到
   user_id: 12957292
   cookie: lang=zh-cn; _yuque_session=TIkLqidn86fi06AORFkqXrUbmgtJXzPaI5x5XnlCmR7PMKDLtLxCmOU-V3fC8SpMnzFA-i9JlglGrXvZG0vnHA==; UM_distinctid=17f9b094b3620c-075f4a64e65a24-9771539-1fa400-17f9b094b37b03; __wpkreporterwid_=7ae6338f-7f5c-4e01-b2c3-2e183529c6ec; acw_tc=0bca293616480009963475590e019f69736250140a93c0c964c54100363230; yuque_ctoken=8YhRGHbUEvdUkEYiupeEYXov; CNZZDATA1272061571=1876267069-1647570629-%7C1647991860; _TRACERT_COOKIE__SESSION=f1e8f1bb-e8d8-4702-a315-f115fe66d126; tree=a385%013ad5566f-3095-406b-943a-0bc53aa52ec8%012
